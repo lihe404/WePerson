@@ -46,7 +46,7 @@ The filenames are encoded as follows. Take "0000_c00_s00_T04.png" as an example,
 * 0000 is the id of the person
 * c00 is the id of the camera
 * s00 is the id of the scene
-* T04 indicates that the environment illumination is similar to dawn in the real world. 
+* T04 is the current time that is related to natural illumination. 
 
 ## Experiment Results
 By training person re-identification models on our dataset, we demonstrate that the model trained on virtual data outperforms the model trained on real-world dataset. Our dataset also surpasses other synthetic dataset in direct transfer. 
