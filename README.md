@@ -6,9 +6,8 @@ This repository contains the WePerson dataset proposed in our paper "[WePerson: 
 <img src='img/teaser.png'/>
 <p align="center">Fig. 1. Sample images from the proposed WePerson dataset.</p>
 
-##TODO List
-
-- [ ]SQA Code Release
+### TODO List
+- [ ] SQA Code Release
 
 ## Table of Contents
 - [Dataset Description](#dataset-description)
